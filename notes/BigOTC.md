@@ -17,15 +17,15 @@ is no capital `E` in the string and therefore you would loop throuhg the entire 
     - No matter how much the input grows it does
  the same set of operations every single time.
 - O(logn)
- - 
+    - 
 - O(n)
- - Linear growth
+    - Linear growth
 - O(n^2)
- - Quadratic growth
+    - Quadratic growth
 - O(2n)
- - Exponential growth
+    - Exponential growth
 - O(n!)
- - algorithms that are impractically to solve in a traditional 
+    - algorithms that are impractically to solve in a traditional 
  computer
 
 
