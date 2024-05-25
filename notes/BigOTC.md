@@ -17,7 +17,7 @@ is no capital `E` in the string and therefore you would loop throuhg the entire 
     - No matter how much the input grows it does
  the same set of operations every single time.
 - O(logn)
-    - 
+    - One of the prefer complexities.
 - O(n)
     - Linear growth
 - O(n^2)
