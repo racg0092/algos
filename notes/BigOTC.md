@@ -14,7 +14,7 @@ is no capital `E` in the string and therefore you would loop throuhg the entire 
 
 **Common Big-O Complexity**
 - O(1)
- - No matter how much the input grows it does
+    - No matter how much the input grows it does
  the same set of operations every single time.
 - O(logn)
  - 
